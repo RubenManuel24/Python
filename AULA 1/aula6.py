@@ -1,0 +1,22 @@
+from carro import Carro
+
+ferrari = Carro( "Ferrari", "Verde", 4)
+
+ferrari.ligar()
+ferrari.mudarCor(1)
+ferrari.acelerar()
+ferrari.acelerar()
+ferrari.acelerar()
+ferrari.acelerar()
+ferrari.acelerar()
+ferrari.acelerar()
+ferrari.acelerar()
+ferrari.acelerar()
+ferrari.acelerar()
+ferrari.acelerar()
+ferrari.desacelerar()
+ferrari.desacelerar()
+ferrari.desacelerar()
+ferrari.desacelerar()
+ferrari.desligar()
+ferrari.dados()
